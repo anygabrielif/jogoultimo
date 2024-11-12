@@ -26,13 +26,13 @@
     </HorizontalStackLayout>
 
     <HorizontalStackLayout x:Name="HSLayer3">
-      <Image Source="chao.png"
+      <Image Source="chao.jpg"
              HorizontalOptions="End"
              VerticalOptions="End"/>
-      <Image Source="chao.png"
+      <Image Source="chao.jpg"
              HorizontalOptions="End"
              VerticalOptions="End"/>
-      <Image Source="chao.png"
+      <Image Source="chao.jpg"
              HorizontalOptions="End"
              VerticalOptions="End"/>
     </HorizontalStackLayout>
